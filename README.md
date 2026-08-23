@@ -20,11 +20,6 @@
     </td>
   </tr>
 </table>
-<td valign="top" width="50%">
-      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=clauriss&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-      <br/><br/>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=clauriss&theme=tokyo-night&hide_border=false&height=300" alt="Activity Graph" />
-    </td>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=clauriss&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
